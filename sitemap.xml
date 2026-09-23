@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://sabziwali.pk/</loc>
   </url>
@@ -14,4 +16,9 @@
   <url>
     <loc>https://sabziwali.pk/blog/how-to-store-carrots.html</loc>
   </url>
+
+  <url>
+    <loc>https://sabziwali.pk/blog/how-to-store-leafy-greens.html</loc>
+  </url>
+
 </urlset>
